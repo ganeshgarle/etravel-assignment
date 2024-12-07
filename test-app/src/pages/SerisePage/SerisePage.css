@@ -1,0 +1,22 @@
+.container {
+    margin-top: 1rem;
+}
+.search_container {
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+}
+
+.list-group-item:hover {
+    cursor: pointer;
+}
+.episode_details {
+    border: 1px solid darkgrey;
+    padding-top: 1rem;
+}
+
+.spinner-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
